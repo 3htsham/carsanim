@@ -49,14 +49,14 @@ html, body {
 	width: 500px;
 	opacity: 0.3;
 	top: -40px;
-	animation: wind 80s linear infinite;
+	animation: wind 100s linear infinite;
 }
 .cloud:nth-child(3) {
 	width: 500px;
 	top: 0px;
 	right: 0;
 	opacity: 0.4;
-	animation: wind 30s linear infinite reverse;
+	animation: wind 130s linear infinite reverse;
 }
 
 /*Keyframes*/
